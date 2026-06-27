@@ -1,0 +1,44 @@
+
+html {
+    background-color: rgb(247, 236, 221);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* titles */
+h1 {
+    background-color: gold;
+    padding: 10px;
+    text-align: center;
+}
+
+/* subtitles */
+h2 {
+    background-color: gray;
+}
+
+.Description {
+    text-align: center;
+    padding: 10px;
+}
+
+
+.link {
+    margin: 20px auto;
+    padding: 5px;
+    background-color: gainsboro;
+    width: fit-content;
+    padding: 12px;
+    border-color: black;
+    border-style: dashed;
+}
+
+.link a {
+    color: black;
+}
+
+
+
+
+
+
+
